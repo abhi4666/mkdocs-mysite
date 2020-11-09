@@ -1,0 +1,9 @@
+site_name: Abhishek Cloud Analytics
+
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme:
+  name: material
