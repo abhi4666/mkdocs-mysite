@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1js5RkKKLLhyx8TN68d5A7532ju" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,5 +45,19 @@
       <updated>1604579952315</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="28" key="CommitChangelistDialog2" timestamp="1604891410263">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="344" y="28" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1604891410263" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1604891412410">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1604891412410" />
+    <state x="500" y="226" key="git4idea.merge.GitPullDialog" timestamp="1604891388876">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="500" y="226" key="git4idea.merge.GitPullDialog/0.23.1440.810@0.23.1440.810" timestamp="1604891388876" />
   </component>
 </project>
